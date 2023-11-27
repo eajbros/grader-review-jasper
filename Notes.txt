@@ -1,0 +1,7 @@
+This grader gives a grade at the end of the run unlike mine because I did not get to that part of the implamentation. 
+My implamentation however does include the exit code and suggestions on how to improve the code along with the error statement from java.
+
+I like the indentation and white space of the code, it makes it easier for me to read different blocks of the code.
+
+I do not understand the purpose of the $() around some of the variables used in the code.
+
